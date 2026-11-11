@@ -409,7 +409,7 @@ El sistema de gestión de biblioteca está compuesto por varias clases que repre
 
 ## 6.2 Diagrama de clases
 
-![alt text](<Diagrama De Clases - Biblioteca.png>)
+![alt text](<Diagrama De Clases - Biblioteca-1.png>)
 
 ## 6.3 Principales clases
 
